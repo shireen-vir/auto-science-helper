@@ -12,3 +12,6 @@ This project aims to provide an easy-to-use tool for automating data cleaning an
 
 ## Getting Started
 To get started, simply clone this repository and install the required packages.
+
+## Changelog
+- Added utility functions
